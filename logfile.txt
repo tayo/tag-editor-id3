@@ -1,0 +1,65 @@
+--logfile.txt---
+about to recurse...
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 01.mp3---
+renamed file to kanye west - audiotrack 01.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 02.mp3---
+renamed file to kanye west - audiotrack 02.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 03.mp3---
+renamed file to kanye west - audiotrack 03.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 04.mp3---
+renamed file to kanye west - audiotrack 04.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 05.mp3---
+renamed file to kanye west - audiotrack 05.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 06.mp3---
+renamed file to kanye west - audiotrack 06.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 07.mp3---
+renamed file to kanye west - audiotrack 07.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 08.mp3---
+renamed file to kanye west - audiotrack 08.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 09.mp3---
+renamed file to kanye west - audiotrack 09.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 10.mp3---
+renamed file to kanye west - audiotrack 10.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 11.mp3---
+renamed file to kanye west - audiotrack 11.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 12.mp3---
+renamed file to kanye west - audiotrack 12.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 13.mp3---
+renamed file to kanye west - audiotrack 13.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 14.mp3---
+renamed file to kanye west - audiotrack 14.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 15.mp3---
+renamed file to kanye west - audiotrack 15.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 16.mp3---
+renamed file to kanye west - audiotrack 16.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 17.mp3---
+renamed file to kanye west - audiotrack 17.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 18.mp3---
+renamed file to kanye west - audiotrack 18.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 19.mp3---
+renamed file to kanye west - audiotrack 19.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 20.mp3---
+renamed file to kanye west - audiotrack 20.mp3
+
+---/c/Files/Music/Rap R&B/Kanye West/Kanye West - AudioTrack 21.mp3---
+renamed file to kanye west - audiotrack 21.mp3

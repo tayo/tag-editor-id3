@@ -1,0 +1,465 @@
+from: "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/AlbumArtSmall.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/albumartsmall.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/AlbumArt_{3F135D8A-E1B6-41C8-B508-9ED84BB99ED6}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/albumart_{3f135d8a-e1b6-41c8-b508-9ed84bb99ed6}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/AlbumArt_{3F135D8A-E1B6-41C8-B508-9ED84BB99ED6}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/albumart_{3f135d8a-e1b6-41c8-b508-9ed84bb99ed6}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/AlbumArt_{8C8B7D7A-9697-4B69-98AC-B471689F87C2}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/albumart_{8c8b7d7a-9697-4b69-98ac-b471689f87c2}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/AlbumArt_{8C8B7D7A-9697-4B69-98AC-B471689F87C2}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/albumart_{8c8b7d7a-9697-4b69-98ac-b471689f87c2}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/AlbumArt_{CF8B6AC1-18A1-40A4-88B9-218928206004}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/albumart_{cf8b6ac1-18a1-40a4-88b9-218928206004}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/AlbumArt_{CF8B6AC1-18A1-40A4-88B9-218928206004}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/albumart_{cf8b6ac1-18a1-40a4-88b9-218928206004}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/AlbumArt_{E8BE8A0D-7D64-4DD4-B936-18D84891758A}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/albumart_{e8be8a0d-7d64-4dd4-b936-18d84891758a}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/AlbumArt_{E8BE8A0D-7D64-4DD4-B936-18D84891758A}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/albumart_{e8be8a0d-7d64-4dd4-b936-18d84891758a}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/AlbumArt_{EE7691C7-E6AF-421F-8945-2BD058B117C0}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/albumart_{ee7691c7-e6af-421f-8945-2bd058b117c0}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/AlbumArt_{EE7691C7-E6AF-421F-8945-2BD058B117C0}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/albumart_{ee7691c7-e6af-421f-8945-2bd058b117c0}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/Folder.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/folder.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/Steven Curtis Chapman - Free.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Christian Contemporary/steven curtis chapman - free.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christmas/AlbumArtSmall.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christmas/albumartsmall.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christmas/AlbumArt_{6C5BA9D3-AB7C-4F5F-98DD-A8E11B9802EA}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christmas/albumart_{6c5ba9d3-ab7c-4f5f-98dd-a8e11b9802ea}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christmas/AlbumArt_{6C5BA9D3-AB7C-4F5F-98DD-A8E11B9802EA}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christmas/albumart_{6c5ba9d3-ab7c-4f5f-98dd-a8e11b9802ea}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Christmas/Folder.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Christmas/folder.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Aerosmith - I Don't Want To Miss A Thing.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/aerosmith - i don't want to miss a thing.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/AlbumArtSmall.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/albumartsmall.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/AlbumArt_{C46DFD2E-BB50-438A-AFF5-5A0BACFC7DAC}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/albumart_{c46dfd2e-bb50-438a-aff5-5a0bacfc7dac}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/AlbumArt_{C46DFD2E-BB50-438A-AFF5-5A0BACFC7DAC}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/albumart_{c46dfd2e-bb50-438a-aff5-5a0bacfc7dac}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Amber - This Is Your Night.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/amber - this is your night.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Angelique Kidjo  - Akwaba.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/angelique kidjo  - akwaba.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Angelique Kidjo - Agolo.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/angelique kidjo - agolo.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Angelique Kidjo - Iwoya (w-Dave Matthews).mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/angelique kidjo - iwoya (w-dave matthews).mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Angelique Kidjo - Naima.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/angelique kidjo - naima.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Angelique Kidjo - Wombo Lombo.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/angelique kidjo - wombo lombo.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Celion Dion - I'm Your Lady.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/celion dion - i'm your lady.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Evita - Don't Cry For Me Argentina.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/evita - don't cry for me argentina.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Folder.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/folder.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Gloria Estefan - Turn The Beat Around.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/gloria estefan - turn the beat around.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Hillary Duff- Come Clean.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/hillary duff- come clean.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Josh Groban - You Raise Me Up.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/josh groban - you raise me up.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Kelly Clarkson - Breakaway.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/kelly clarkson - breakaway.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/LeAnn Rimes - Can't fight the moonlight.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/leann rimes - can't fight the moonlight.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Madonna - Don't Cry For Me Argentina.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/madonna - don't cry for me argentina.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Mel C. - I Turn To You.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/mel c. - i turn to you.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Pretenders - I'll Stand By You.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/pretenders - i'll stand by you.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Sarah McLachlan - Sweet Surrender.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/sarah mclachlan - sweet surrender.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Simon and Garfunkle - The Sound of Silence.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/simon and garfunkle - the sound of silence.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Sonique - Feels So Good.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/sonique - feels so good.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Survivor - Burning Heart.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/survivor - burning heart.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Contemporary/Vertical Horizon - Everything You Want.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Contemporary/vertical horizon - everything you want.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Disney/AlbumArtSmall.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Disney/albumartsmall.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Disney/AlbumArt_{72570A22-492D-48DF-9996-CF3B208678D1}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Disney/albumart_{72570a22-492d-48df-9996-cf3b208678d1}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Disney/AlbumArt_{72570A22-492D-48DF-9996-CF3B208678D1}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Disney/albumart_{72570a22-492d-48df-9996-cf3b208678d1}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Disney/Disney - Pocahontas - Steady As the Beating Drum.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Disney/disney - pocahontas - steady as the beating drum.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Disney/Folder.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Disney/folder.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Disney/Mulan - Reflection.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Disney/mulan - reflection.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Enya/AlbumArtSmall.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Enya/albumartsmall.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Enya/AlbumArt_{311ABD52-481D-4AEB-932B-C2A67FC76277}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Enya/albumart_{311abd52-481d-4aeb-932b-c2a67fc76277}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Enya/AlbumArt_{311ABD52-481D-4AEB-932B-C2A67FC76277}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Enya/albumart_{311abd52-481d-4aeb-932b-c2a67fc76277}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Enya/AlbumArt_{5843046C-FE53-452E-AAD2-CFC9187B6BAB}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Enya/albumart_{5843046c-fe53-452e-aad2-cfc9187b6bab}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Enya/AlbumArt_{5843046C-FE53-452E-AAD2-CFC9187B6BAB}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Enya/albumart_{5843046c-fe53-452e-aad2-cfc9187b6bab}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Enya/AlbumArt_{D0E66E2E-345D-4D7D-B15B-0902FD2D5EC0}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Enya/albumart_{d0e66e2e-345d-4d7d-b15b-0902fd2d5ec0}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Enya/AlbumArt_{D0E66E2E-345D-4D7D-B15B-0902FD2D5EC0}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Enya/albumart_{d0e66e2e-345d-4d7d-b15b-0902fd2d5ec0}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Enya/AlbumArt_{E9CCF487-1ABC-4501-B632-D8D38A8ED60B}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Enya/albumart_{e9ccf487-1abc-4501-b632-d8d38a8ed60b}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Enya/AlbumArt_{E9CCF487-1ABC-4501-B632-D8D38A8ED60B}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Enya/albumart_{e9ccf487-1abc-4501-b632-d8d38a8ed60b}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Enya/enya - Boadicea.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Enya/enya - boadicea.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Enya/enya - Paint The Sky With Stars.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Enya/enya - paint the sky with stars.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Enya/Folder.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Enya/folder.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Instumental/AlbumArtSmall.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Instumental/albumartsmall.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Instumental/AlbumArt_{0D64DA35-9580-499F-9650-0190BD82576E}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Instumental/albumart_{0d64da35-9580-499f-9650-0190bd82576e}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Instumental/AlbumArt_{0D64DA35-9580-499F-9650-0190BD82576E}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Instumental/albumart_{0d64da35-9580-499f-9650-0190bd82576e}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Instumental/Barber - Agnus Dei.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Instumental/barber - agnus dei.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Instumental/DBZ - SSJ Goku Theme (English).mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Instumental/dbz - ssj goku theme (english).mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Instumental/DBZ - Trunks Story.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Instumental/dbz - trunks story.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Instumental/Folder.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Instumental/folder.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/AlbumArtSmall.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/albumartsmall.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/AlbumArt_{391C1433-B30D-4DA0-BEF1-9513BA005691}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/albumart_{391c1433-b30d-4da0-bef1-9513ba005691}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/AlbumArt_{391C1433-B30D-4DA0-BEF1-9513BA005691}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/albumart_{391c1433-b30d-4da0-bef1-9513ba005691}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/AlbumArt_{436E526C-702A-4138-8C88-E72FAB41D4A3}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/albumart_{436e526c-702a-4138-8c88-e72fab41d4a3}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/AlbumArt_{436E526C-702A-4138-8C88-E72FAB41D4A3}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/albumart_{436e526c-702a-4138-8c88-e72fab41d4a3}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/AlbumArt_{66A451D9-4191-479C-93E0-271C344256CF}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/albumart_{66a451d9-4191-479c-93e0-271c344256cf}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/AlbumArt_{66A451D9-4191-479C-93E0-271C344256CF}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/albumart_{66a451d9-4191-479c-93e0-271c344256cf}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/AlbumArt_{67752F42-C2B9-4A0E-8F61-85F44CCE6AE6}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/albumart_{67752f42-c2b9-4a0e-8f61-85f44cce6ae6}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/AlbumArt_{67752F42-C2B9-4A0E-8F61-85F44CCE6AE6}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/albumart_{67752f42-c2b9-4a0e-8f61-85f44cce6ae6}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/AlbumArt_{6C5609DF-0646-4A1E-B3DA-E704EC838242}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/albumart_{6c5609df-0646-4a1e-b3da-e704ec838242}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/AlbumArt_{6C5609DF-0646-4A1E-B3DA-E704EC838242}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/albumart_{6c5609df-0646-4a1e-b3da-e704ec838242}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/AlbumArt_{B3B61DCD-EE5A-419E-8D0C-ED4E5888AA06}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/albumart_{b3b61dcd-ee5a-419e-8d0c-ed4e5888aa06}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/AlbumArt_{B3B61DCD-EE5A-419E-8D0C-ED4E5888AA06}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/albumart_{b3b61dcd-ee5a-419e-8d0c-ed4e5888aa06}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Bubba Sparxxx - Deliverance.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/bubba sparxxx - deliverance.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Dru Hill - Beauty.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/dru hill - beauty.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Eminem - Sing For the Moment.MP3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/eminem - sing for the moment.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Folder.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/folder.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Ginuine - In Those Jeans.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/ginuine - in those jeans.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/Jay Z - AudioTrack 01.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/jay z - audiotrack 01.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/Jay Z - AudioTrack 02.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/jay z - audiotrack 02.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/Jay Z - AudioTrack 03.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/jay z - audiotrack 03.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/Jay Z - AudioTrack 04.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/jay z - audiotrack 04.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/Jay Z - AudioTrack 05.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/jay z - audiotrack 05.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/Jay Z - AudioTrack 06.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/jay z - audiotrack 06.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/Jay Z - AudioTrack 07.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/jay z - audiotrack 07.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/Jay Z - AudioTrack 08.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/jay z - audiotrack 08.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/Jay Z - AudioTrack 09.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/jay z - audiotrack 09.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/Jay Z - AudioTrack 10.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/jay z - audiotrack 10.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/Jay Z - AudioTrack 11.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/jay z - audiotrack 11.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/Jay Z - AudioTrack 12.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/jay z - audiotrack 12.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/Jay Z - AudioTrack 13.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/jay z - audiotrack 13.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/Jay Z - AudioTrack 14.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/Jay Z - The Black Album/jay z - audiotrack 14.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Mario Winans - I Don't Wanna Know.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/mario winans - i don't wanna know.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Mary J. Blige feat. Jadakiss & Fabolous - Family Affair Remix.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/mary j. blige feat. jadakiss & fabolous - family affair remix.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Nirvana - You Know You're Right.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/nirvana - you know you're right.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/Nonchalant - 5 O'Clock.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/nonchalant - 5 o'clock.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rap R&B/pastor troy - Visa Versa.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rap R&B/pastor troy - visa versa.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/AlbumArtSmall.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/albumartsmall.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/AlbumArt_{B88977CB-5DB9-415C-BA9D-105B29F3A8C4}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/albumart_{b88977cb-5db9-415c-ba9d-105b29f3a8c4}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/AlbumArt_{B88977CB-5DB9-415C-BA9D-105B29F3A8C4}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/albumart_{b88977cb-5db9-415c-ba9d-105b29f3a8c4}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/AlbumArt_{B918E5B0-2575-4F0F-AB94-446D9490E998}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/albumart_{b918e5b0-2575-4f0f-ab94-446d9490e998}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/AlbumArt_{B918E5B0-2575-4F0F-AB94-446D9490E998}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/albumart_{b918e5b0-2575-4f0f-ab94-446d9490e998}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Dragonheart/04--Einon.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Dragonheart/04--einon.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Folder.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/folder.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Gladiator/AlbumArtSmall.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Gladiator/albumartsmall.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Gladiator/AlbumArt_{6E47197C-D7EC-4B17-8884-367F37B4A430}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Gladiator/albumart_{6e47197c-d7ec-4b17-8884-367f37b4a430}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Gladiator/AlbumArt_{6E47197C-D7EC-4B17-8884-367F37B4A430}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Gladiator/albumart_{6e47197c-d7ec-4b17-8884-367f37b4a430}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Gladiator/AlbumArt_{C06795A1-714E-4A4A-B6E7-433E06EFCEB1}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Gladiator/albumart_{c06795a1-714e-4a4a-b6e7-433e06efceb1}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Gladiator/AlbumArt_{C06795A1-714E-4A4A-B6E7-433E06EFCEB1}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Gladiator/albumart_{c06795a1-714e-4a4a-b6e7-433e06efceb1}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Gladiator/Folder.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Gladiator/folder.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Last of the Mohicans/AlbumArtSmall.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Last of the Mohicans/albumartsmall.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Last of the Mohicans/AlbumArt_{224049AC-ADA3-40DD-A592-4BC0E3A35A36}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Last of the Mohicans/albumart_{224049ac-ada3-40dd-a592-4bc0e3a35a36}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Last of the Mohicans/AlbumArt_{224049AC-ADA3-40DD-A592-4BC0E3A35A36}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Last of the Mohicans/albumart_{224049ac-ada3-40dd-a592-4bc0e3a35a36}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Last of the Mohicans/AlbumArt_{45269436-7EC3-42AC-8E25-6143BADA2A25}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Last of the Mohicans/albumart_{45269436-7ec3-42ac-8e25-6143bada2a25}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Last of the Mohicans/AlbumArt_{45269436-7EC3-42AC-8E25-6143BADA2A25}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Last of the Mohicans/albumart_{45269436-7ec3-42ac-8e25-6143bada2a25}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Last of the Mohicans/Folder.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Last of the Mohicans/folder.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Legends Of The Fall - The Ludlows.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/legends of the fall - the ludlows.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 01 - A Storm Is Coming.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 01 - a storm is coming.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 02 - Hope And Memory.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 02 - hope and memory.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 03 - Minas Tirith (Featuring Ben Del Maestro).mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 03 - minas tirith (featuring ben del maestro).mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 04 - The White Tree.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 04 - the white tree.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 05 - The Steward Of Gondor (Featuring Billy Boyd).mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 05 - the steward of gondor (featuring billy boyd).mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 06 - Minas Morgul.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 06 - minas morgul.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 07 - The Ride Of The Rohirrim.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 07 - the ride of the rohirrim.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 08 - Twilight And Shadow (Featuring Renée Fleming).mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 08 - twilight and shadow (featuring renée fleming).mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 09 - Cirith Ungol.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 09 - cirith ungol.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 10 - Anduril.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 10 - anduril.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 11 - Shelob's Lair.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 11 - shelob's lair.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 12 - Ash And Smoke.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 12 - ash and smoke.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 13 - The Fields Of Pelennor.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 13 - the fields of pelennor.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 14 - Hope Fails.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 14 - hope fails.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 15 - The Black Gate Opens (Featuring Sir James Galway).mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 15 - the black gate opens (featuring sir james galway).mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 16 - The End Of All Things (Featuring Renée Fleming).mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 16 - the end of all things (featuring renée fleming).mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 17 - The Return Of The King (Featuring Sir Jame Galway, Viggo Mortensen And Renée Fleming).mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 17 - the return of the king (featuring sir jame galway, viggo mortensen and renée fleming).mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 18 - The Grey Havens (Featuring Sir James Galway).mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 18 - the grey havens (featuring sir james galway).mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/The Lord Of The Rings- The Return Of The King - 19 - Annie Lennox - Into The West.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Return of the King/the lord of the rings- the return of the king - 19 - annie lennox - into the west.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Two Towers/AlbumArtSmall.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Two Towers/albumartsmall.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Two Towers/AlbumArt_{755B6D10-BBF7-47B0-8B17-F0A73AE2661C}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Two Towers/albumart_{755b6d10-bbf7-47b0-8b17-f0a73ae2661c}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Two Towers/AlbumArt_{755B6D10-BBF7-47B0-8B17-F0A73AE2661C}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Two Towers/albumart_{755b6d10-bbf7-47b0-8b17-f0a73ae2661c}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Two Towers/Folder.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/LOTR - The Two Towers/folder.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Pearl Harbor/AlbumArtSmall.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Pearl Harbor/albumartsmall.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Pearl Harbor/AlbumArt_{1E583354-38DC-44A6-A9CD-A4C699062459}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Pearl Harbor/albumart_{1e583354-38dc-44a6-a9cd-a4c699062459}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Pearl Harbor/AlbumArt_{1E583354-38DC-44A6-A9CD-A4C699062459}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Pearl Harbor/albumart_{1e583354-38dc-44a6-a9cd-a4c699062459}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Pearl Harbor/Folder.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/Pearl Harbor/folder.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/Rocky Soundtrack - Training Montage.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/rocky soundtrack - training montage.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Soundtrack/The Passion of the Christ - Resurrection.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Soundtrack/the passion of the christ - resurrection.mp3"
+
+
+number of files processed: 1126
+number of files changed:   154

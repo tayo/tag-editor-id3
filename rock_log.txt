@@ -1,0 +1,117 @@
+from: "/home/Kunle Oguntebi/Files/Music/Rock/3 Doors Down - Here Without You.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/3 doors down - here without you.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArtSmall.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumartsmall.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{21D43F84-CCB7-4DA4-8352-65CD84E1B9EB}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{21d43f84-ccb7-4da4-8352-65cd84e1b9eb}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{21D43F84-CCB7-4DA4-8352-65CD84E1B9EB}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{21d43f84-ccb7-4da4-8352-65cd84e1b9eb}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{2EFF78DF-4DFB-43E0-A82A-E6ECC51A1DD8}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{2eff78df-4dfb-43e0-a82a-e6ecc51a1dd8}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{2EFF78DF-4DFB-43E0-A82A-E6ECC51A1DD8}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{2eff78df-4dfb-43e0-a82a-e6ecc51a1dd8}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{3154F5EF-F00E-45B1-BCAF-D3FB210A02E5}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{3154f5ef-f00e-45b1-bcaf-d3fb210a02e5}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{3154F5EF-F00E-45B1-BCAF-D3FB210A02E5}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{3154f5ef-f00e-45b1-bcaf-d3fb210a02e5}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{3FE25973-C7B8-4A5E-BA3B-64E9B0E57A04}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{3fe25973-c7b8-4a5e-ba3b-64e9b0e57a04}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{3FE25973-C7B8-4A5E-BA3B-64E9B0E57A04}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{3fe25973-c7b8-4a5e-ba3b-64e9b0e57a04}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{A3D0E88D-5BF8-4FB2-BE54-17664CAD1EA7}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{a3d0e88d-5bf8-4fb2-be54-17664cad1ea7}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{A3D0E88D-5BF8-4FB2-BE54-17664CAD1EA7}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{a3d0e88d-5bf8-4fb2-be54-17664cad1ea7}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{B33BC4F1-CC6F-4984-AD86-DCC9062285DD}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{b33bc4f1-cc6f-4984-ad86-dcc9062285dd}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{B33BC4F1-CC6F-4984-AD86-DCC9062285DD}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{b33bc4f1-cc6f-4984-ad86-dcc9062285dd}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{E4C14FE8-AECD-472F-A080-EB8A00915F2C}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{e4c14fe8-aecd-472f-a080-eb8a00915f2c}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{E4C14FE8-AECD-472F-A080-EB8A00915F2C}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{e4c14fe8-aecd-472f-a080-eb8a00915f2c}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{EA4D9E89-9A3D-4B46-B89E-B260BE4A6F18}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{ea4d9e89-9a3d-4b46-b89e-b260be4a6f18}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{EA4D9E89-9A3D-4B46-B89E-B260BE4A6F18}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{ea4d9e89-9a3d-4b46-b89e-b260be4a6f18}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{EC6409ED-5266-42B7-A528-DC2BF9903B86}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{ec6409ed-5266-42b7-a528-dc2bf9903b86}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{EC6409ED-5266-42B7-A528-DC2BF9903B86}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{ec6409ed-5266-42b7-a528-dc2bf9903b86}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{F41A35BC-CE0D-4961-B41D-D6040135C77A}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{f41a35bc-ce0d-4961-b41d-d6040135c77a}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/AlbumArt_{F41A35BC-CE0D-4961-B41D-D6040135C77A}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/albumart_{f41a35bc-ce0d-4961-b41d-d6040135c77a}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Alter Bridge - Open Your Eyes.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/alter bridge - open your eyes.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Blink 182 - I Miss You.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/blink 182 - i miss you.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Coldplay - A Rush Of Blood To The Head/Thumbs.db"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/Coldplay - A Rush Of Blood To The Head/thumbs.db"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Dashboard Confessional - Vindicated.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/dashboard confessional - vindicated.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Folder.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/folder.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Linkin Park/AlbumArtSmall.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/Linkin Park/albumartsmall.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Linkin Park/AlbumArt_{23D1968B-86ED-44CB-AA1A-D4BB5E21AC79}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/Linkin Park/albumart_{23d1968b-86ed-44cb-aa1a-d4bb5e21ac79}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Linkin Park/AlbumArt_{23D1968B-86ED-44CB-AA1A-D4BB5E21AC79}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/Linkin Park/albumart_{23d1968b-86ed-44cb-aa1a-d4bb5e21ac79}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Linkin Park/AlbumArt_{EC6409ED-5266-42B7-A528-DC2BF9903B86}_Large.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/Linkin Park/albumart_{ec6409ed-5266-42b7-a528-dc2bf9903b86}_large.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Linkin Park/AlbumArt_{EC6409ED-5266-42B7-A528-DC2BF9903B86}_Small.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/Linkin Park/albumart_{ec6409ed-5266-42b7-a528-dc2bf9903b86}_small.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Linkin Park/Folder.jpg"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/Linkin Park/folder.jpg"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Lost Prophets - (Wake Up) Make A Move.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/lost prophets - (wake up) make a move.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Story Of The Year - And The Hero Will Drown.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/story of the year - and the hero will drown.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Story Of The Year - Anthem Of Our Dying Day.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/story of the year - anthem of our dying day.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Three Days Grace - I Hate Everything About You.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/three days grace - i hate everything about you.mp3"
+
+from: "/home/Kunle Oguntebi/Files/Music/Rock/Yellowcard - Only One.mp3"
+to:   "/home/Kunle Oguntebi/Files/Music/Rock/yellowcard - only one.mp3"
+
+
+number of files processed: 236
+number of files changed:   38
